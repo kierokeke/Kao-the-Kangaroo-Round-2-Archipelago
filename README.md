@@ -14,14 +14,10 @@ First of all, you need an **unpacked version of the Steam version of Kao the Kan
 
 To unpack the game executable, use this tool:
 
-
-<img width="145" height="155" alt="Capt1ura" src="https://github.com/user-attachments/assets/f693bdf9-ccfc-43be-b7d1-c917055eb0c2" />
-
-
-
 Once the executable has been unpacked, you should have a file similar to:
 [Steamless – GitHub](https://github.com/atom0s/Steamless?utm_source=chatgpt.com)
 `kao2.exe.unpacked.exe`
+<img width="145" height="155" alt="Capt1ura" src="https://github.com/user-attachments/assets/7ad26628-5bd5-45a4-a202-82c7c5194ff2" />
 
 ---
 
