@@ -59,3 +59,5 @@ Once connected, the client will detect when you launch:
 `kao2.exe.unpacked_ap.exe`
 
 After that, you can start playing **Kao the Kangaroo Round 2** through Archipelago.
+
+https://github.com/kierokeke/Kao-the-Kangaroo-Round-2-Archipelago/releases/tag/KAO2
