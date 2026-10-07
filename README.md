@@ -29,6 +29,9 @@ Once you have downloaded the APWorld, simply **double-click it to install it**.
 
 After installing it, open the **Archipelago Launcher** and look for **Kao Patcher**.
 
+<img width="634" height="250" alt="Capt1ura" src="https://github.com/user-attachments/assets/e522b650-1e3e-48e8-be69-483852e953de" />
+
+
 Select your game executable:
 
 `kao2.exe.unpacked.exe`
