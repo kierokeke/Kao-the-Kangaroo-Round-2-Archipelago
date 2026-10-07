@@ -15,10 +15,10 @@ Hello! This is a small Archipelago implementation for **Kao the Kangaroo Round 2
 
 First of all, you need an **unpacked version of the Steam version of Kao the Kangaroo Round 2**.
 
-To unpack the game executable, use this tool:
+To unpack the game executable, use this tool:[Steamless – GitHub](https://github.com/atom0s/Steamless?utm_source=chatgpt.com)
 
 Once the executable has been unpacked, you should have a file similar to:
-[Steamless – GitHub](https://github.com/atom0s/Steamless?utm_source=chatgpt.com)
+
 `kao2.exe.unpacked.exe`
 <img width="145" height="155" alt="Capt1ura" src="https://github.com/user-attachments/assets/7ad26628-5bd5-45a4-a202-82c7c5194ff2" />
 
