@@ -54,6 +54,9 @@ To play, simply open:
 
 **KAO2 CLIENT**
 
+<img width="634" height="86" alt="Capt1ura" src="https://github.com/user-attachments/assets/9d3a3efb-7b7e-420e-ae89-fdf8828c5ada" />
+
+
 The client will ask you for your **Archipelago server address** and your **player name**.
 
 Once connected, the client will detect when you launch:
