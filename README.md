@@ -1,4 +1,6 @@
-
+What does it randomize?
+It randomizes the order of the levels, and most of the checks are completed by finishing the levels.
+Unfortunately, the level lock can be bypassed by selecting “Next Level” after completing a level. Because of this, it is recommended to return to the lobby after completing your level instead of selecting “Next Level.”
 
 <img width="3000" height="3000" alt="dg9nbi4-7dbebbde-7846-4331-aa51-788e284bbdc1 (1)" src="https://github.com/user-attachments/assets/ce308a12-05bd-44c0-bca1-b917c0a2cc10" />
 
