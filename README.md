@@ -40,7 +40,7 @@ Once the patching process is complete, you should receive a confirmation message
 
 You need to have the files arranged like this:
 
-**[IMAGE HERE]**
+<img width="214" height="158" alt="Captura" src="https://github.com/user-attachments/assets/37cb8b6d-6ff3-49ca-be90-a3f4a512b34b" />
 
 You must use `kao2.exe.unpacked_ap.exe` to launch the game so that Archipelago can detect it correctly.
 
