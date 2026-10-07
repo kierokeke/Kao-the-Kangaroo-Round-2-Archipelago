@@ -68,4 +68,4 @@ Once connected, the client will detect when you launch:
 
 After that, you can start playing **Kao the Kangaroo Round 2** through Archipelago.
 
-https://github.com/kierokeke/Kao-the-Kangaroo-Round-2-Archipelago/releases/tag/KAO2
+[https://github.com/kierokeke/Kao-the-Kangaroo-Round-2-Archipelago/releases/tag/KAO2](https://github.com/kierokeke/Kao-the-Kangaroo-Round-2-Archipelago/releases)
