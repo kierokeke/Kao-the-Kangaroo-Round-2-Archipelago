@@ -3,7 +3,7 @@ It randomizes the order of the levels, and most of the checks are completed by f
 Unfortunately, the level lock can be bypassed by selecting “Next Level” after completing a level. Because of this, it is recommended to return to the lobby after completing your level instead of selecting “Next Level.” I want to emphasize that I only used AI because I wanted to create an Archipelago world for myself. However, if anyone else wants to use it, I’m leaving it here for everyone.
 As I mentioned, this may contain bugs, so please keep that in mind when using it.
 
-<img width="300" height="300" alt="dg9nbi4-7dbebbde-7846-4331-aa51-788e284bbdc1 (1)" src="https://github.com/user-attachments/assets/ce308a12-05bd-44c0-bca1-b917c0a2cc10" />
+<img width="1000" height="1000" alt="dg9nbi4-7dbebbde-7846-4331-aa51-788e284bbdc1 (1)" src="https://github.com/user-attachments/assets/ce308a12-05bd-44c0-bca1-b917c0a2cc10" />
 
 # Kao-the-Kangaroo-Round-2-Archipelago
 Hello! This is a small Archipelago implementation for **Kao the Kangaroo Round 2**.  It still has some bugs, and I used some help from Claude to create the APWorld.
